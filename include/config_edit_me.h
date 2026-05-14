@@ -1,11 +1,11 @@
 #ifndef CONFIG_H
 #define CONFIG_H
 
-int server_port = 22222;
+int server_port = 19140;
 
-const char* ssid = "your ssid";
-const char* password = "your password";
+const char* ssid = "YL server";
+const char* password = "YLserver.gg";
 
-const int MAX_PLAYERS = 5;
+const int MAX_PLAYERS = 3;
 
 #endif
